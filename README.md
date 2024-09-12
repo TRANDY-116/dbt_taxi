@@ -1,0 +1,1 @@
+This covers the dbt section of the DE zoomcamp
